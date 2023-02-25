@@ -1,4 +1,3 @@
-
 /**
  * print_number - Prints an integer.
  *
